@@ -8,9 +8,11 @@
 📩 Contact: onjuu1016@gmail.com  
 
 ## 🛠 기술 스택
-- **언어**: JavaScript
-- **스타일링**: CSS
-- **툴**: GitHub, Figma, Visual Studio Code
+<img width="46" height="47" alt="Photoshop" src="https://github.com/user-attachments/assets/f61f933d-13eb-482b-ad1a-43c078f2c218" />
+<img width="47" height="47" alt="Illustrator" src="https://github.com/user-attachments/assets/a5f73d8d-2afa-42be-82ec-2605bf7401b7" />
+<img width="46" height="47" alt="Figma" src="https://github.com/user-attachments/assets/7d2b0504-3002-4af7-ac9a-d2efcd81eb14" />
+<img width="47" height="47" alt="Html" src="https://github.com/user-attachments/assets/a98121be-217e-4e07-8cc4-81af4f3d5d07" />
+<img width="46" height="47" alt="Css" src="https://github.com/user-attachments/assets/9420bb42-f4e7-4281-b605-6dda36aec0c7" />
 
 
 ## 💻 언어 사용량 통계

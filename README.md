@@ -6,15 +6,12 @@
 - 🤔 사용자 경험을 개선하기 위한 아이디어를 찾고 있습니다.
 - 💬 `HTML`, `CSS` 등에 관해 이야기하는 것을 좋아합니다.
 - 📫 연락 방법:onjuu1016@gmail.com
-- 😄 대명사: He/Him
-- ⚡ 재미있는 사실: 커피 없이는 코드를 작성할 수 없습니다!
 
 ## 🛠 기술 스택
 - **언어**: JavaScript
-- **프레임워크 및 라이브러리**: React.js, Next.js, Redux, Recoil, Axios, Zustand
+- **프레임워크 및 라이브러리**: React.js
 - **스타일링**: CSS
 - **툴**: Git, GitHub, Figma, Visual Studio Code
-- **기타**: Responsive Design, RESTful API, GraphQL
 
 ## 💻 언어 사용량 통계
 
@@ -27,7 +24,6 @@
 ## 📫 연락하기
 - **이메일**: onjuu1016@gmail.com
 - **LinkedIn**: [LinkedIn 프로필 링크]
-- **Twitter**: [@yourTwitter](https://twitter.com/yourTwitter)
 - **블로그**: [블로그 주소]
 
 <!-- 이 섹션은 자신의 프로필을 더욱 개성 있게 만들기 위해 추가할 수 있습니다 -->
